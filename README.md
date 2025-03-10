@@ -21,7 +21,8 @@ Elle inclut les événements concernant le démarrage/arrêt du serveur DNS, les
 1. Importez le fichier XML dans votre propre Event Viewer.
 2. Suivez les événements critiques liés au ser
 ---
-![image](https://github.com/user-attachments/assets/a4442fbe-d73b-43a0-b797-8205bc68d56d)
+![image](https://github.com/user-attachments/assets/c4882960-c281-458c-a655-f88611f7409f)
+
 
 ## Exemple de fichier XML
 ```xml
